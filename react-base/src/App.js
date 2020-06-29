@@ -8,7 +8,6 @@ function App() {
   return (
     <div className="App">
       <Routers />
-      <Button type="primary">我是谁，我在那？</Button>
     </div>
   )
 }
